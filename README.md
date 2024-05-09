@@ -1,3 +1,9 @@
+
+
+
+https://github.com/ngokienquoc15302/GiuaKi/assets/82589543/bb933cb9-1632-482f-97ba-50b8bf38e286
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
